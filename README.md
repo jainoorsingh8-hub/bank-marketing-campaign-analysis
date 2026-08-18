@@ -187,6 +187,7 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Jainoor Singh Saini**
+
 Computer Science Engineering Student
 Chandigarh University
 
